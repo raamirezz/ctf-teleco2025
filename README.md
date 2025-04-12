@@ -31,8 +31,8 @@ Puedes descargar la máquina virtual desde el siguiente enlace:
 
     Iniciar sesión con las siguientes credenciales:
     
-    - **usuario**: intruder
-    - **contraseña**: intruder
+    - Usuario: intruder
+    - Contraseña: intruder
 
     Ejecutar el siguiente comando para desplegar el laboratorio:
     sudo /home/kali/Desktop/Escenario/start_containers.sh <Tu-DNI> start
