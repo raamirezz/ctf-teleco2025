@@ -49,8 +49,8 @@ https://mega.nz/file/XPgghIyL#lAjm9F3-vCpP7e_CAVX-0MRHLtfETlBwMJP8o_VtcRE
 
     Iniciar sesión con las siguientes credenciales:
     
-    - **usuario**: intruder
-    - **contraseña**: intruder
+    - Usuario: intruder
+    - Contraseña: intruder
 
     Ejecutar el siguiente comando para desplegar el laboratorio:
     sudo /home/kali/Desktop/Escenario/start_containers.sh <Tu-DNI> start
