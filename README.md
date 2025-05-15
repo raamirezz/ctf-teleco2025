@@ -33,7 +33,7 @@ La máquina virtual cuenta con un conjunto de herramientas preinstaladas y confi
 
 Puedes descargar la máquina virtual desde el siguiente enlace:
 
-https://mega.nz/file/XPgghIyL#lAjm9F3-vCpP7e_CAVX-0MRHLtfETlBwMJP8o_VtcRE
+https://mega.nz/file/qKYFFY7C#iyJo8cIalCNuOokuOqg1kEOxgRmo_DkrOVpcB76G6O0
 
 
 ## Intrucciones de uso
